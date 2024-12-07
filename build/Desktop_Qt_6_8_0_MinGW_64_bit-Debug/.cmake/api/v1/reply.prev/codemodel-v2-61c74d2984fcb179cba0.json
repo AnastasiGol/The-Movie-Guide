@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3b06ace2fe43b662ec7d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "coursework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "coursework::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coursework-Debug-4dd6181d48f7a65005e1.json",
+					"name" : "coursework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coursework_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coursework_autogen-Debug-716327d53f64b6ccd4a5.json",
+					"name" : "coursework_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coursework_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coursework_autogen_timestamp_deps-Debug-c8e711da778df6d381e3.json",
+					"name" : "coursework_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Uni/coursework/coursework/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/Uni/coursework/coursework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
